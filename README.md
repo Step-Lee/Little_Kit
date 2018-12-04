@@ -1,1 +1,1 @@
-little kits used while I'm learning
+little kits I used during the learning process.
